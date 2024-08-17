@@ -5,9 +5,12 @@ data classification
 تقسيم البيانات لنحديد درجة السرية
 PHI : معلومات تخص صحة الشخص
 PIL : معلومات تخص هوية الشخص
-Authentication 
+Authentication     هوية 
 1- Something you know : password
 2- Something you have : tokens 
 3- Something you are : بصمة العين
 Types of Authentication 
 SFA : Single         MFA : Multi
+Authorization        صلاحيات
+non repudiation     عدم الانكار  
+privacy                خصوصية
