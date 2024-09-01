@@ -1,6 +1,6 @@
 CIA Trid : 
 Confidentiality                                Integrity                    Availability
-   النزاهة                                       السرية                                              
+   النزاهة                                           السرية                                              
 data classification                                
 تقسيم البيانات لنحديد درجة السرية
 PHI : معلومات تخص صحة الشخص
